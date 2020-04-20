@@ -1,0 +1,6 @@
+[submodule "Supervised/Text_Classification"]
+	path = Supervised/Text_Classification
+	url = https://github.com/tung2921/Text-Classification
+[submodule "Unsupervised/Topic_Modeling"]
+	path = Unsupervised/Topic_Modeling
+	url = https://github.com/tung2921/Topic_Modeling
