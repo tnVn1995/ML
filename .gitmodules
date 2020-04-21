@@ -7,3 +7,6 @@
 [submodule "Supervised/Sentiment CLassifier"]
 	path = Supervised/Sentiment CLassifier
 	url = https://github.com/tung2921/Sentiment-Classifier
+[submodule "Unsupervised/Similarity-Search"]
+	path = Unsupervised/Similarity-Search
+	url = https://github.com/tung2921/Similarity-Search
