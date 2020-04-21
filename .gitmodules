@@ -4,3 +4,6 @@
 [submodule "Unsupervised/Topic_Modeling"]
 	path = Unsupervised/Topic_Modeling
 	url = https://github.com/tung2921/Topic_Modeling
+[submodule "Supervised/Sentiment CLassifier"]
+	path = Supervised/Sentiment CLassifier
+	url = https://github.com/tung2921/Sentiment-Classifier
