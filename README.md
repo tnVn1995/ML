@@ -14,7 +14,7 @@ This repo contains my projects in machine learning
 
 ## Unsupervised ML
 
-1. Similarity Search
+1. [Similarity Search](https://github.com/tung2921/Similarity-Search) (Incomplete)
 	
 	Applying feature representation, K-means and K nearest neighbor to sort out bad/duplicate images
 	
