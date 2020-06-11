@@ -10,3 +10,6 @@
 [submodule "Unsupervised/Similarity-Search"]
 	path = Unsupervised/Similarity-Search
 	url = https://github.com/tung2921/Similarity-Search
+[submodule "Scratch"]
+	path = Scratch
+	url = https://github.com/tung2921/Scratch.git
