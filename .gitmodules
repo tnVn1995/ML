@@ -13,3 +13,6 @@
 [submodule "Scratch"]
 	path = Scratch
 	url = https://github.com/tung2921/Scratch.git
+[submodule "DeepLearning"]
+	path = DeepLearning
+	url = https://github.com/tung2921/DeepLearning
