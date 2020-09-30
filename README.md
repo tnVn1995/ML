@@ -1,7 +1,9 @@
+
 # Machine Learning
 
 This repo contains my projects in machine learning
-
+## Scratch
+Repo that contains codes from scratch for popular machine learning models
 ## Supervised ML
 
 1. [Text Classification](https://github.com/tung2921/Text-Classification/tree/a4072797e4553e992184e42ea920bf6a930a6a8c)
@@ -21,3 +23,4 @@ This repo contains my projects in machine learning
 2. [Topic Modeling](https://github.com/tung2921/Topic_Modeling/tree/05dc62e236f51b6e6b0657be26d71f3600042deb) 
 
 	Applying LDA to classify research papers into different topics
+
